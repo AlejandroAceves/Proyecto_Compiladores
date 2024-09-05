@@ -50,7 +50,9 @@ Existen aplicaciones con interfaces gráficas para organizar archivos, como Haze
 
 ## Arquitectura y Diseño del Compilador
 - **Diagrama de bloques:**
-    https://drive.google.com/file/d/1n5fFAuvSHq6quBxfa6XKAuDULbauceNO/view?usp=drive_link
+    - https://drive.google.com/file/d/1n5fFAuvSHq6quBxfa6XKAuDULbauceNO/view?usp=drive_link
+    - https://www.canva.com/design/DAGP2JyK5CQ/OI_ijP0oY6DJ0F-oxyt2jQ/edit?utm_content=DAGP2JyK5CQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton 
+
 - **Explicación del flujo de datos:**
 
 - **Decisiones de diseño:**
