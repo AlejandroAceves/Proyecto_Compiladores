@@ -47,4 +47,14 @@ Existen aplicaciones con interfaces gráficas para organizar archivos, como Haze
 - **Enfoque Específico en la Organización de Archivos:** Diseñado específicamente para optimizar la experiencia del usuario en la gestión de archivos.
 - **Multiplataforma y Fácil de Usar:** Compatible con múltiples sistemas operativos, priorizando la usabilidad y eliminando la necesidad de aprender comandos complejos.
 - **Solución Flexible y Personalizable:** Proporciona suficiente flexibilidad para que los usuarios personalicen la organización de archivos según sus necesidades, permitiendo tanto tareas sencillas como operaciones avanzadas.
-"""
+
+## Arquitectura y Diseño del Compilador
+- **Diagrama de bloques:**
+    https://drive.google.com/file/d/1n5fFAuvSHq6quBxfa6XKAuDULbauceNO/view?usp=drive_link
+- **Explicación del flujo de datos:**
+
+- **Decisiones de diseño:**
+    Identifier: `Organize`,`Modify`
+    OPERATOR: `+`,`-`,`=`
+    KEYWORDS: `Date`, `Size`, `Text`, `Move`, `Delete`, `Copy`, `FILETYPE`
+    PUNCTUATORS: `/`, `.`, `;`
