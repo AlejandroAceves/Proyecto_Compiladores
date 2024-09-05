@@ -54,7 +54,7 @@ Existen aplicaciones con interfaces gráficas para organizar archivos, como Haze
 - **Explicación del flujo de datos:**
 
 - **Decisiones de diseño:**
-    Identifier: `Organize`,`Modify`
-    OPERATOR: `+`,`-`,`=`
-    KEYWORDS: `Date`, `Size`, `Text`, `Move`, `Delete`, `Copy`, `FILETYPE`
-    PUNCTUATORS: `/`, `.`, `;`
+    - Identifier: `Organize`,`Modify`
+    - OPERATOR: `+`,`-`,`=`
+    - KEYWORDS: `Date`, `Size`, `Text`, `Move`, `Delete`, `Copy`, `FILETYPE`
+    - PUNCTUATORS: `/`, `.`, `;`
